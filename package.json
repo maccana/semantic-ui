@@ -1,12 +1,12 @@
 {
   "name": "smantic-ui",
   "version": "1.0.0",
-  "description": "",
+  "description": "Web page to experiment with Semantic-UI CSS framework",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Mikey",
+  "author": "Mike McCann",
   "license": "ISC",
   "dependencies": {
     "semantic-ui": "^2.2.7"
